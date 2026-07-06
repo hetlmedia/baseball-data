@@ -1,0 +1,188 @@
+{
+"meta":{
+	"last_updated": "2026-07-06",
+	"description": "Liste officielle des entraîneurs et DG de la MLB"
+},
+"teams":[{		
+	"team_abbr": "ATH",
+	"team_name": "Oakland Athletics",
+	"head_coach": {
+		"name": "Mark Kotsay",
+		"hired_date": "2021-12-21"
+	}},{		
+	"team_abbr": "ATL",
+	"team_name": "Atlanta Braves",
+	"head_coach": {
+		"name": "Walt Weiss",
+		"hired_date": "2025-11-03"
+	}},{		
+	"team_abbr": "AZ",
+	"team_name": "Arizona Diamondbacks",
+	"head_coach": {
+		"name": "Torey Lovullo",
+		"hired_date": "2016-11-04"
+	}},{		
+	"team_abbr": "BAL",
+	"team_name": "Baltimore Orioles",
+	"head_coach": {
+		"name": "Craig Albernaz",
+		"hired_date": "2025-10-26"
+	}},{		
+	"team_abbr": "BOS",
+	"team_name": "Boston Red Sox",
+	"head_coach": {
+		"name": "Chad Tracy",
+		"hired_date": "2026-04-26"
+	}},{		
+	"team_abbr": "CHC",
+	"team_name": "Chicago Cubs",
+	"head_coach": {
+		"name": "Craig Counsell",
+		"hired_date": "2023-11-06"
+	}},{		
+	"team_abbr": "CIN",
+	"team_name": "Cincinnati Reds",
+	"head_coach": {
+		"name": "Terry Francona",
+		"hired_date": "2024-10-03"
+	}},{		
+	"team_abbr": "CLE",
+	"team_name": "Cleveland Guardians",
+	"head_coach": {
+		"name": "Stephen Vogt",
+		"hired_date": "2023-11-06"
+	}},{		
+	"team_abbr": "COL",
+	"team_name": "Colorado Rockies",
+	"head_coach": {
+		"name": "Warren Schaeffer",
+		"hired_date": "2025-05-11"
+	}},{		
+	"team_abbr": "CWS",
+	"team_name": "Chicago White Sox",
+	"head_coach": {
+		"name": "Will Venable",
+		"hired_date": "2024-10-31"
+	}},{		
+	"team_abbr": "DET",
+	"team_name": "Detroit Tigers",
+	"head_coach": {
+		"name": "A.J. Hinch",
+		"hired_date": "2020-10-30"
+	}},{		
+	"team_abbr": "HOU",
+	"team_name": "Houston Astros",
+	"head_coach": {
+		"name": "Joey Espada",
+		"hired_date": "2023-11-13"
+	}},{		
+	"team_abbr": "KC",
+	"team_name": "Kansas City Royals",
+	"head_coach": {
+		"name": "Matt Quatraro",
+		"hired_date": "2022-10-30"
+	}},{		
+	"team_abbr": "LAA",
+	"team_name": "Los Angeles Angels",
+	"head_coach": {
+		"name": "Kurt Suzuki",
+		"hired_date": "2025-10-21"
+	}},{		
+	"team_abbr": "LAD",
+	"team_name": "Los Angeles Dodgers",
+	"head_coach": {
+		"name": "Dave Roberts",
+		"hired_date": "2015-11-23"
+	}},{		
+	"team_abbr": "MIA",
+	"team_name": "Miami Marlins",
+	"head_coach": {
+		"name": "Clayton McCullough",
+		"hired_date": "2024-11-10"
+	}},{		
+	"team_abbr": "MIL",
+	"team_name": "Milwaukee Brewers",
+	"head_coach": {
+		"name": "Pat Murphy",
+		"hired_date": "2023-11-15"
+	}},{		
+	"team_abbr": "MIN",
+	"team_name": "Minnesota Twins",
+	"head_coach": {
+		"name": "Derek Shelton",
+		"hired_date": "2025-10-29"
+	}},{		
+	"team_abbr": "NYM",
+	"team_name": "New York Mets",
+	"head_coach": {
+		"name": "Carlos Mendoza",
+		"hired_date": "2023-11-13"
+	}},{		
+	"team_abbr": "NYY",
+	"team_name": "New York Yankees",
+	"head_coach": {
+		"name": "Aaron Boone",
+		"hired_date": "2017-12-01"
+	}},{		
+	"team_abbr": "PHI",
+	"team_name": "Philadelphia Phillies",
+	"head_coach": {
+		"name": "Don Mattingly",
+		"hired_date": "2026-04-28"
+	}},{		
+	"team_abbr": "PIT",
+	"team_name": "Pittsburgh Pirates",
+	"head_coach": {
+		"name": "Don Kelly",
+		"hired_date": "2025-05-08"
+	}},{		
+	"team_abbr": "SD",
+	"team_name": "San Diego Padres",
+	"head_coach": {
+		"name": "Craig Stammen",
+		"hired_date": "2025-11-06"
+	}},{		
+	"team_abbr": "SEA",
+	"team_name": "Seattle Mariners",
+	"head_coach": {
+		"name": "Dan Wilson",
+		"hired_date": "2024-08-22"
+	}},{		
+	"team_abbr": "SF",
+	"team_name": "San Francisco Giants",
+	"head_coach": {
+		"name": "Tony Vitello",
+		"hired_date": "2025-10-22"
+	}},{		
+	"team_abbr": "STL",
+	"team_name": "St. Louis Cardinals",
+	"head_coach": {
+		"name": "Oliver Marmol",
+		"hired_date": "2021-10-25"
+	}},{		
+	"team_abbr": "TB",
+	"team_name": "Tampa Bay Rays",
+	"head_coach": {
+		"name": "Kevin Cash",
+		"hired_date": "2014-12-05"
+	}},{		
+	"team_abbr": "TEX",
+	"team_name": "Texas Rangers",
+	"head_coach": {
+		"name": "Skip Schumaker",
+		"hired_date": "2025-10-03"
+	}},{		
+	"team_abbr": "TOR",
+	"team_name": "Toronto Blue Jays",
+	"head_coach": {
+		"name": "John Schneider",
+		"hired_date": "2022-07-13"
+	}},{		
+	"team_abbr": "WSH",
+	"team_name": "Washington Nationals",
+	"head_coach": {
+		"name": "Blake Butera",
+		"hired_date": "2025-10-31"
+	}}
+]
+}
